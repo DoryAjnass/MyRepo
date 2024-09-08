@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: MyRepo
+  description: A component.
+  title: Project
+spec:
+  owner: DoryAjnass
+  type: other
+  lifecycle: unknown
